@@ -7,7 +7,7 @@ import com.hlabexamples.rxjava2retrofit2demo.main.forecast.model.ForecastData;
 import io.reactivex.functions.Consumer;
 
 /**
- * Created by indianic on 05/06/17.
+ * Created by Harry's Lab on 05/06/17.
  */
 
 public final class ForecastContract {
