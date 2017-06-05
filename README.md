@@ -21,8 +21,12 @@ https://github.com/square/retrofit/tree/master/retrofit-adapters/rxjava2
 
 5.Data Binding 
 
-https://developer.android.com/topic/libraries/data-binding/index.html https://medium.com/indianic/android-data-binding-binding-view-and-data-part-1-3b9154de09c6
+https://developer.android.com/topic/libraries/data-binding/index.html 
+
+https://medium.com/indianic/android-data-binding-binding-view-and-data-part-1-3b9154de09c6
 
 6.MVP 
 
-https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter https://medium.com/@CStudio/mvp-model-view-presenter-in-android-6487b9fafcbb
+https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter 
+
+https://medium.com/@CStudio/mvp-model-view-presenter-in-android-6487b9fafcbb
