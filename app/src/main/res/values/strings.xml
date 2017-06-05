@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Weather Finder</string>
+
+    <string name="msg_loading">Loading</string>
+    <string name="str_no_internet">Check your internet connection</string>
+    <string name="str_something_went_wrong">Something went wrong, Try again…</string>
+    <string name="val_enter_city">Enter city name</string>
+
+    <string name="title_forecast">Forecast</string>
+    <string name="title_weather">Weather</string>
+
+</resources>

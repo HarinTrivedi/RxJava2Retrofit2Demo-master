@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--generate appid from *http://openweathermap.org/appid* -->
+    <string name="api_key"></string>
+
+    <string name="arg_id">id</string>
+    <string name="str_humidity">Humidity</string>
+    <string name="str_celsius">°C</string>
+    <string name="val_unit">metric</string>
+    <string name="transition_city">city</string>
+</resources>
