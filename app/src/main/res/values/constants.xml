@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--generate appid from *http://openweathermap.org/appid* -->
-    <string name="api_key"></string>
+    <string name="api_key">24e3bc15312829871eac6cf3dce0360d</string>
 
     <string name="arg_id">id</string>
     <string name="str_humidity">Humidity</string>

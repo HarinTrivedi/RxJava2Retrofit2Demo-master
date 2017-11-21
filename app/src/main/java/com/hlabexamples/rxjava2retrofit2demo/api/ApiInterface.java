@@ -13,7 +13,7 @@ import retrofit2.http.Query;
  */
 public interface ApiInterface {
 
-    set api key in constants.xml
+//    set api key in constants.xml
 
     String baseUrl = "http://api.openweathermap.org/data/2.5/";
 
