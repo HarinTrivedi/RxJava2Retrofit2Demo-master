@@ -32,3 +32,9 @@ https://medium.com/indianic/android-data-binding-binding-view-and-data-part-1-3b
 https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93presenter 
 
 https://medium.com/@CStudio/mvp-model-view-presenter-in-android-6487b9fafcbb
+
+# Sample
+
+![Demo](https://i.imgur.com/rrJP2IO.png)
+
+![Demo](https://i.imgur.com/YfKqe25.png)
