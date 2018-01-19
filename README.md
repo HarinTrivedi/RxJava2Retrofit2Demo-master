@@ -1,5 +1,5 @@
 # RxJava2Retrofit2Demo-master
-## Sample application simulating a weather app using the RxJava2 along with the Retrofit made to work seamlessly with latest Rx components
+>_Sample application simulating a weather app using the RxJava2 along with the Retrofit made to work seamlessly with latest Rx components_
 
 **Components used in demo:**
 
@@ -35,6 +35,4 @@ https://medium.com/@CStudio/mvp-model-view-presenter-in-android-6487b9fafcbb
 
 # Sample
 
-![Demo](https://i.imgur.com/rrJP2IO.png)
-
-![Demo](https://i.imgur.com/YfKqe25.png)
+![Demo](https://i.imgur.com/eOCmguw.png) ![Demo](https://i.imgur.com/Ujekqv1.png)
