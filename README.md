@@ -36,3 +36,7 @@ https://medium.com/@CStudio/mvp-model-view-presenter-in-android-6487b9fafcbb
 # Sample
 
 ![Demo](https://i.imgur.com/eOCmguw.png) ![Demo](https://i.imgur.com/Ujekqv1.png)
+
+***
+
+### [@Harry's Lab](https://github.com/HarinTrivedi)
